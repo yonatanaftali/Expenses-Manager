@@ -20,6 +20,6 @@ const ExpenseItem = (props) => {
             <button onClick={clickHanlder}>Change Title</button>
         </Card>
     );
-}
+};
 
 export default ExpenseItem;
